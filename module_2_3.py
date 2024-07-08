@@ -3,6 +3,6 @@ a = 0
 while a < len(asd):
     if asd[a] > 0:
         print(asd[a])
-    a += 1
     if asd[a] < 0:
         break
+    a += 1
